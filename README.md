@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Vitor 🖐️
 
 
-![Vitor Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
+![Vitor Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorsilvafire&show_icons=true&theme=dracula&count_private=true)
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
